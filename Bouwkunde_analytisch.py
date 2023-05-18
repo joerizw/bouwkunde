@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 27 17:39:14 2023
-
-@author: joeri
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Apr 27 09:11:07 2023
 
 @author: joeri
